@@ -1,0 +1,8 @@
+{
+  "name": "AJR Maps",
+  "description": "A smart, personalized routing explorer providing varied routing options (scenic, frugal, quiet) and AI-powered locations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
